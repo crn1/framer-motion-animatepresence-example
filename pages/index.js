@@ -73,7 +73,7 @@ const Index = () => {
 						</Grid>
 						<AnimatePresence>
 							{ isVisible && images.map((image, i) => (
-								<Grid item xs={12} lg={3} xl={2} key={i}>
+								<Grid item xs={6} lg={3} xl={2} key={i}>
 									<motion.div
 											variants={itemVariants}
 											initial='hidden'
