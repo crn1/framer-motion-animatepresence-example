@@ -39,13 +39,9 @@ const images = [
 	'https://burst.shopify.com/photos/fruit-in-a-cup-with-spoon/download',
 	'https://burst.shopify.com/photos/western-fashion-in-desert-field/download',
 	'https://burst.shopify.com/photos/autumn-baking-fun/download',
-	'https://burst.shopify.com/photos/drone-photography-of-river-through-fall-trees/download',
 	'https://burst.shopify.com/photos/person-working-on-laptop-with-phone-and-notebook-beside/download',
 	'https://burst.shopify.com/photos/urban-highway-traffic-from-above/download',
 	'https://burst.shopify.com/photos/basket-of-fresh-picked-apple/download',
-	'https://burst.shopify.com/photos/hand-grabbing-a-hot-slice-of-pizza/download',
-	'https://burst.shopify.com/photos/bright-green-gumball-candy-background/download',
-	'https://burst.shopify.com/photos/street-lights-glow-in-iceland-winter/download',
 ]
 
 const Index = () => {
